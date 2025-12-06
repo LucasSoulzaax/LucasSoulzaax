@@ -1,6 +1,6 @@
 ## OLÁ, ME CHAMO LUCAS SOUZA. 👋
 
-- 🔭 Atualmente faço estágio em uma escola de programação, também busco novos desafios na área de programação.
+- 🔭 Atualmente atuo como desenvolvedor junior e professor em uma escola de programação.
 - 🌱 Estou aprofundando meus conhecimentos em React e TypeScript.
 - 📫 Redes sociais: Instagram (soulzaax), LinkedIn (https://www.linkedin.com/in/lucas-souza-7365b3299/).
 - ⚡ Pronouns: Ele/dele.
