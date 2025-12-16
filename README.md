@@ -9,7 +9,7 @@
 
 | GitHub Stats ⭐ | Most Used Languages 💻 |
 |--------------|---------------------|
-| <img src="https://github-readme-stats.vercel.app/api?username=LucasSoulzaax&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dracula" alt="Lucas Souza's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSoulzaax&layout=compact&theme=dracula" alt="Lucas Souza's Most Used Languages" /> |
+| <img src="https://github-readme-stats.vercel.app/api?username=LucasSoulzaax&show_icons=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSoulzaax&layout=compact&theme=dracula" alt="Lucas Souza's Most Used Languages" /> |
 
 ## Languages I Use:
 <div align="center">
